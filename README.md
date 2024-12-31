@@ -1,3 +1,6 @@
+Устал устанавливать каждый шрифт руками?
+Скачай ttf font installer и выбери директорию. Все шрифты установятся сами
+
 starting def on WMS Public scripts
 
 
